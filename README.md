@@ -38,10 +38,7 @@ A arquitetura segue o padrão **Model-View-Controller (MVC)**, onde:
 -   [x] Interface responsiva construída com Bootstrap.
 
 ## 📸 Demonstração
-
-*(Dica: Tire um screenshot da tela principal da sua aplicação e adicione aqui. Você pode arrastar a imagem para a caixa de edição do GitHub)*
-
-![Exemplo da Tela Principal](caminho/para/seu/screenshot.png)
+![Captura de tela 2025-06-06 132455](https://github.com/user-attachments/assets/043b611d-2cac-4250-bb10-58a8cb0d0e19)
 
 ## 🛠️ Tecnologias Utilizadas
 
