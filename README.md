@@ -108,7 +108,4 @@ O banco de dados H2 roda em memória e pode ser acessado através de um console 
 
 ## 👨‍💻 Autor
 
-Feito com muita persistência por **Gabriel Dantas**.
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+**Gabriel Dantas**.
