@@ -37,6 +37,8 @@ A arquitetura segue o padrão **Model-View-Controller (MVC)**, onde:
 
 ## 📸 Demonstração
 ![Captura de tela 2025-06-06 132455](https://github.com/user-attachments/assets/043b611d-2cac-4250-bb10-58a8cb0d0e19)
+#link do video:
+https://youtu.be/aDZ5LCNzZT0
 
 ## 🛠️ Tecnologias Utilizadas
 
