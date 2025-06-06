@@ -1,5 +1,3 @@
-# ProjetoCrud
-
 # Projeto CRUD de Produtos - Java Web
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
